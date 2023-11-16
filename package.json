@@ -1,0 +1,17 @@
+{
+  "name": "@celatte/middy-util-issue",
+  "version": "1.0.0",
+  "author": "Lorenzo Bevilacqua <npm+lorenzo@celatte.com>",
+  
+  "type": "module",
+
+  "dependencies": {
+    "@middy/util": "~5.0.0"
+  },
+
+  "devDependencies": {
+    "@types/node": "18.x",
+
+    "typescript": "~5.2.2"
+  }
+}

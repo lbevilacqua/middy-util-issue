@@ -1,0 +1,8 @@
+# Build
+lib/
+
+# Log files
+*.log
+
+# Node
+node_modules/
