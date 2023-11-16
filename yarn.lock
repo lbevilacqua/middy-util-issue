@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@middy/util@~5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@middy/util/-/util-5.0.0.tgz#2190bd9c37a6a3cfe9c386ec33b4edc6adf5e5ca"
-  integrity sha512-HBHA/wLtGxFS1sdMbIDQYy5XtJexn9v6SwxmJ/deZcBsXCgXEr5w3hbLbMo+tfXaIft4y35VoPA3sYuqVc5AEg==
+"@middy/util@~5.0.1":
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/@middy/util/-/util-5.0.1.tgz#e1d0c43142a9fd0a9a966942ff96974a1867f1ba"
+  integrity sha512-0umNwovJNgVgWTmJCqPAKRIS9YQGGFJe8l+DIPwa3oEn7fkqgUr0914a84075eV2b69an6s7t8W1INaENYEHAQ==
 
 "@types/node@18.x":
   version "18.18.9"

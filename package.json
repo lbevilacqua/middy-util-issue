@@ -6,7 +6,7 @@
   "type": "module",
 
   "dependencies": {
-    "@middy/util": "~5.0.0"
+    "@middy/util": "~5.0.1"
   },
 
   "devDependencies": {
